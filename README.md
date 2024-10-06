@@ -1,2 +1,2 @@
 # DYPC-A_little_game
-A web mini-game related to education, in collaboration with the Dayuan International High School Student Council.
+一個程設社跟大園高中學生會合作的網頁小遊戲
