@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+}
+
+h1 {
+    color: #333;
+}
+
+#game-board {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    border: 5px solid #333;
+    background-color: #e6ffe6;
+}
+
+#player {
+    width: 20px;
+    height: 20px;
+    background-color: #007bff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+}
+
+.toxic-zone {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255, 0, 0, 0.6);
+    position: absolute;
+    border-radius: 10px;
+}
+
+#message {
+    margin-top: 20px;
+    color: #ff4500;
+    font-weight: bold;
+}
